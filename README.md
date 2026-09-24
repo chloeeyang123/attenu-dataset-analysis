@@ -9,4 +9,10 @@ quantiles, sorting it from least to greatest distance, etc. I also conducted t-t
 tests to evaluate the relationship between dist and accel. Then, I attempted to model the relationship using linear and logarithmic
 models. Finally, I used ggplot2 to create publication-ready graphs displaying different characteristics of the dataset.
 ### Folders
-ggplot-1 includes the 
+- ggplot-1 graphs the acceleration
+- ggplot-2 graphs the distance
+- ggplot-3 graphs the relationship between acceleration and distance as a linear regression model
+- ggplot-4 graphs the number of measurements taken at each event
+- plot-1 graphs the residuals of the linear model between acceleration and distance
+- plot-2 graphs the residuals of the linear model between acceleration and the logarithm of distance
+- plot-3 is a scatter plot of the acceleration and distance
